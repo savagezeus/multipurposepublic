@@ -1,0 +1,37 @@
+{
+  "name": "envoy",
+  "version": "1.0.0",
+  "description": "A cool multipurpose bot named Envoy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Gunin (zeus)",
+  "license": "ISC",
+  "dependencies": {
+    "amethyste-api": "^1.1.4",
+    "anime-scraper": "^3.1.1",
+    "ascii-table": "0.0.9",
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "discord_ticket_maker": "^1.1.2",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "image-js": "^0.21.9",
+    "imdb-api": "^4.1.1",
+    "mathjs": "^7.1.0",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "novelcovid": "^1.2.7",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "request-promise-native": "^1.0.9",
+    "something-random-on-discord": "0.0.2",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
